@@ -1,2 +1,8 @@
-seja ben vindo ao meu perfil
-oi me chamo julia tenho 15 anos e sou aluna do alura
+#Boas vindas ao meu perfil
+
+- meu nome é julia mazzotti
+
+-Estou estudando no alura
+
+-Estou me desenvolvendo na linguagem javscript
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos  desenvolvidos
