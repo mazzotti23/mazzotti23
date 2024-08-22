@@ -1,8 +1,15 @@
-#Boas vindas ao meu perfil
+💙 _BOAS VINDAS AO MEU PERFIL_ 💙
 
-- meu nome é julia mazzotti
+    Meu nome é Julia mazzotti
 
--Estou estudando no alura
+  - Estou estudando na Alura;
+  - Estou me desenvolvendo na linguagem JavaScripT
+  - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
--Estou me desenvolvendo na linguagem javscript
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos  desenvolvidos
+    ### Você pode entrar em contato comigo 📪
+
+ meu instagram ⤵️
+  - @Mazzotti_julia
+
+
+  
